@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kanikasoniai
 - 👀 I’m curious about AI, data science, and how software can drive smarter decisions.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,html 
+- 🎯 Interests- Ai,machine learning,web development,automation 
 - 💞️ I’m looking to collaborate on cybersecurity and machine learning projects.
 - 📫 How to reach me ... kanikasoni2305@gmail.com
 - 😄 Pronouns: ...Her
